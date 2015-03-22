@@ -21,3 +21,6 @@ Change username and password in `src/main/resources/config.properties`.
 Initialize table `country` with some data before using the application: run script `db/countries.sql`
 
 * navigate to [http://localhost:8080/spring-vaadin-contacts/](http://localhost:8080/spring-vaadin-contacts/)
+
+## Author
+Martin Mecera
